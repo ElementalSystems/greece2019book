@@ -1,0 +1,7 @@
+We wake and breakfast - the only staff today is the exclusively Greek speaking chef who we communicate with well enough - she is lovely, generous and warm. Our plan is to walk the river canyon in Nas today so we pack some food and drink and walk off up the road - we find a small path down to the angel pools and carefully descend the steep canyon wall.
+
+The path is broken and difficult to find in some places but we make it to the bottom without much problem - it is very hot and exposed in the sun. A final hurdle, a steep rock wall just below the waterfall, is a bit more challenging. After a few attempts I find a way up but it gets pretty sketchy near the top.
+
+The pool around the waterfall is very biotic - filled with a forest of green algae and many water skimmers and frogs. Below the rock wall we relax by a clear pool and have a drink. I swim in crystal water - cool and beautiful. Lying on the rocks I dry in the sun. The sunny bits are very exposed and the shade is very biotic - we still both have aggressively itching bites and can't deal with any more.
+
+We slowly move down the river but the going is hard - the place is crawling with insects and spider webs. The path is hard to find and often unviable but we work our way down to the stair that leads to our place and climb the path to our safe cool room to rest. Another beer on the balcony and a snack sets us right for an afternoon nap.
