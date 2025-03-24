@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>{{page.title}}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;700&display=swap" rel="stylesheet">
+  <style>
+  {{{style.content}}}
+  div.fullbk::before {
+    background-image: url({{{back.dataurl}}});
+  }
+  </style>
+</head>
+
+<body onload='start()' >
+  <div class="full fullbk {{back.mods}}" >
+    <div class="textframe fullbk {{back.mods}}">
+      {{#text1}}
+      <div class="pad act" id=main_a>
+        <div class=heading>
+          {{data.pageLead}} - {{page.author1}}
+        </div>
+        <div class="scroll">
+          {{{text1.content}}}
+        </div>
+      </div>
+      {{/text1}}
+      {{#text2}}
+      <div class="pad" id=main_c>
+        <div class=heading>
+          {{data.pageLead}} - {{page.author2}}
+        </div>
+        <div>
+          {{{text2.content}}}
+        </div>
+      </div>
+      {{/text2}}      
+    </div>
+    <div class="photoframe fullbk {{back.mods}}">
+      {{#data.next}}
+      <a id=next class=ctl href="./{{data.next.link}}.html">{{data.next.text}}</a>
+      {{/data.next}}
+      {{#data.back}}
+      <a id=back class=ctl href="./{{data.back.link}}.html">{{data.back.text}}</a>
+      {{/data.back}}
+      {{#i1}}
+      <div class="imgframe {{i1.mods}}">
+        <img src="{{i1.dataurl}}" >
+      </div>
+      {{/i1}}
+      {{#i2}}
+      <div class="imgframe {{i2.mods}}">
+        <img src="{{i2.dataurl}}" >
+      </div>
+      {{/i2}}
+      {{#i3}}
+      <div class="imgframe {{i3.mods}}">
+        <img src="{{i3.dataurl}}" >
+      </div>
+      {{/i3}}
+      {{#i4}}
+      <div class="imgframe {{i4.mods}}">
+        <img src="{{i4.dataurl}}" >
+      </div>
+      {{/i4}}
+      {{#i5}}
+      <div class="imgframe {{i5.mods}}">
+        <img src="{{i5.dataurl}}" >
+      </div>
+      {{/i5}}
+      {{#i6}}
+      <div class="imgframe {{i6.mods}}">
+        <img src="{{i6.dataurl}}" >
+      </div>
+      {{/i6}}
+      {{#i7}}
+      <div class="imgframe {{i7.mods}}">
+        <img src="{{i7.dataurl}}" >
+      </div>
+      {{/i7}}
+      {{#i8}}
+      <div class="imgframe {{i8.mods}}">
+        <img src="{{i8.dataurl}}" >
+      </div>
+      {{/i8}}
+      {{#i9}}
+      <div class="imgframe {{i9.mods}}">
+        <img src="{{i9.dataurl}}" >
+      </div>
+      {{/i9}}
+      {{#i10}}
+      <div class="imgframe {{i10.mods}}">
+        <img src="{{i10.dataurl}}" >
+      </div>
+      {{/i10}}
+      {{#i11}}
+      <div class="imgframe {{i11.mods}}">
+        <img src="{{i11.dataurl}}" >
+      </div>
+      {{/i11}}
+      {{#i12}}
+      <div class="imgframe {{i12.mods}}">
+        <img src="{{i12.dataurl}}" >
+      </div>
+      {{/i12}}
+      {{#i13}}
+      <div class="imgframe {{i13.mods}}">
+        <img src="{{i13.dataurl}}" >
+      </div>
+      {{/i13}}
+      {{#i14}}
+      <div class="imgframe {{i14.mods}}">
+        <img src="{{i14.dataurl}}" >
+      </div>
+      {{/i14}}
+      {{#i15}}
+      <div class="imgframe {{i15.mods}}">
+        <img src="{{i15.dataurl}}" >
+      </div>
+      {{/i15}}
+      {{#i16}}
+      <div class="imgframe {{i16.mods}}">
+        <img src="{{i16.dataurl}}" >
+      </div>
+      {{/i16}}
+      {{#i17}}
+      <div class="imgframe {{i17.mods}}">
+        <img src="{{i17.dataurl}}" >
+      </div>
+      {{/i17}}
+      {{#i18}}
+      <div class="imgframe {{i18.mods}}">
+        <img src="{{i18.dataurl}}" >
+      </div>
+      {{/i18}}
+      {{#i19}}
+      <div class="imgframe {{i19.mods}}">
+        <img src="{{i19.dataurl}}" >
+      </div>
+      {{/i19}}
+    </div>
+    <div id="zoom">
+        <img id="zoomimg">
+    </div>      
+  </div>
+</body>
+<script >{{{script.content}}}</script>
+</html>
