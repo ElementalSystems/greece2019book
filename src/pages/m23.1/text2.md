@@ -1,0 +1,5 @@
+The harbour (Ammandi) is tiny and picturesque. Beautiful light blue sea with a few rowing boats anchored not far out. A narrow walkway though the three to four restaurants perched on the edge. A winding stone stairway goes up to the cliffs at the top. Ruined structures (forts?) up above on the sides of the red cliffs. Restaurateurs grilling octopus, aubergine and squid over hot coals alongside their restaurants. In the waters below our table they throw bread - tiny fishes surround it like piranha with larger fish waiting below. I can't see the salt cellar I dropped but I do see a fork.
+
+Sunset Ammandi restaurant is wonderful. I experience a beautifully Greek interaction: When I tell the waiter that I’ve dropped his salt cellar into the sea he says, ‘Jump!’ - then immediately laughs. This is a typical Greek humour I've experienced. They deadpan but don’t hold you in it, they laugh with you immediately.
+
+For dessert at the restaurant we have a beautiful, thick panna cotta with a thick, cherry compote over it. When Andrew tell the waiter we are going to Ikaria he is jealous, says, “They wear no watches there. That is where we go to holiday”.

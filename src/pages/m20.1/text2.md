@@ -1,0 +1,5 @@
+When we have fetched the car we have brunch in a little restaurant with a pretty outside terrace (Elia Tavern). Greek portions are huge! So when we order mixed appetisers and Santorinian fava it’s a huge meal. The waiter shows us how to eat fava correctly - olive oil and lemon squeezed over (there are already raw onion slices and caper on top) and mix together - tasty but more A’s thing than mine. The mixed platter had dolmades, cheese saganaki (fried cheese), zucchini and tomato balls. We’re eating a lot of vegetarian here!
+
+Cable car is terrifying - fast, tiny, hanging above a rocky precipice. There is a huge queue (winding out the building , down the street and round the corner) of cruise ship people waiting to cable car down. Thank God we are not in it!
+
+Narrow roads, coast road along the cliffs. The whole island is dry and desolate but also covered in grape vines. Only 32kms across but it has 16 wineries! A’s tablet is sent to kill me. It can't find us on the offline map - keeps on reverting to Piraous if I leave it alone for 5 seconds. And no paper maps :(

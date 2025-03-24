@@ -1,0 +1,7 @@
+Next morning Andrew drags me to a wine tasting despite my petulance. Halfway through I revive and become more human. Domaine Sigalis is the premier winery on the island. Very impressive but casual and chilled much like all of greece. Lovely Greek hospitality and friendliness - cute waiters. When we order the food the waiter tells us how to pair the various wines. Beautifully done.
+
+Assyrtiko is the main local white which is spectacular and quite minerally tasting. Possibly my favourite white ever. Santorini wine making goes back to 3000BC - so much for SA wine history. They also do Athini. They have a seven village’s tasting where you taste a single vineyard Assyrtiko from seven villages. Would have loved to do that - next time.
+
+They also have experimental wines. My favourite, which we buy, is quite salty tasting. Also slightly aged whites where the grapes are sun-dried, not fortified but amazing body and flavour. This Nychter is too pricey to buy.
+
+They do food and wine pairing very well here on Santorini. At Venetsantos (also recommended by Polydolos) there is a magnificent view of the caldera - we see Fira and Oia. They built this winery from the top down - to use gravity to press etc grapes and deliver to the port below. White lime has been poured over the rock to stabilize it. The platter has different foods to pair with different wines: light cheese, then heavier cheese; smoked chicken and grapes; then pastrami style beef and peppers; then bright orange marmalade; then blue cheese and chilli for the vinsanto.

@@ -1,0 +1,8 @@
+Oia is busy but horribly busy with people coming to see the sunset. Single narrow path lined with shops and restaurants heads to the end of the island for sunset view. We walk to the end and back (and turn back again when we miss the restaurant). But we find:
+* Gallery of lovely photographs of Greek doors and steps
+*  Atlantic books - amazing little bookshop with first editions worth 7000 Euro (eg Little Prince). Books in all languages in tiny alcoves. A Gormenghast portfolio. And new philosophy, fiction and poetry. There are winding narrow stairs to get down into the book shop and writing on the walls with quotes and the shop’s history. I buy a Murikami from a collection of famous authors with concepts - it has 5 of his short stories. I also Zorba the Greek and Plato’s symposium.
+*  Amazing gallery with original Greek artwork. Unravelling heads, kissing heads, heads in pilchard tins, mobile of floating bodies (which I later buy), figures sitting on beach, figures climbing rope.
+
+We tried to get into another restaurant Polydor recommended, but they were full and then sunset happened. We almost lost it because it was 8.45pm, we were hungry and we had to fight our way through crowds on narrow pathways.
+
+Thalassia saved us - beautiful view of Fira. Lovely waiter who says ‘Baie Dankie’ when he hears we are South African. They serve wonderful fish soup: a tower of veggies, minced Salmon and they pour a fish broth over it.Awesome risotto with ouzo, herbs and lime. Then an invention of their chef’s: Greek Millefleur - Koritalfi leaves, angel hair phyllo, aniseed cream and pistachios (the Aegean peanut).

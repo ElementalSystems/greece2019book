@@ -1,0 +1,3 @@
+On our way home we check out the various food options and have a peek at a ‘yuppie’ private beach through a window in their wall. Back at the Margi we get a drink and a snack before heading up to our room to chill. At 7pm we head down to reception and organise transport and check out for the next day. Cara sits with Polydoros (polyphonics), our waiter from the previous evening and gets some seriously good advice about Santorini and Athens.
+
+Then we take ourselves to a local restaurant on the seafront and get some nice white wine and a seafood platter. This food is mixed in quality, the service terrible, but the views are great. We sit and chat and watch the light across the bay on the water. Then to an early bed.

@@ -1,0 +1,1 @@
+We head through some crazy greek island traffic (nose to nose buses on narrow roads) and have a swim on the Nikos terrace. Then we hit the Oia town at sunset - it’s very busy with tourists everywhere. The sunset is spectacular but we mostly miss it. We eat at a seafood restaurant (great fish soup, amazing risotto and millefleur like dessert). Then to an early bed.

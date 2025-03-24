@@ -1,0 +1,5 @@
+Santos Winery is technically in Pyrgos, but really it overlooks the caldera like Veretsonos. As A says - very touristy like Fairview but more so , lots of Chinese tourists and harried staff. The cheese platter we order has the ubiquitous barley break sticks and five cheeses from different islands. - goat and cow, gruyere, feta and cream cheese.
+
+The prehistoric city ‘Akrotiri’ actually existed in 3000BC. The cover is an engineering wonder - built using the principles of earth (cool dry), air (hot,humid),  fire (hot,dry) and water (cool,humid). The building is kept cool without any extra power using this system. Earth on top, levered windows that open at night, the roof collects rain water and protects from the sun.
+
+The site is impressive and they have mostly only uncovered the top stories.There were beautiful murals in bright colours (that have been to museums). There is a great 3d rendering of the site as it looked based on the plans and murals - really brings it to life.They found remnants of food suggesting these folk ate snails and drank wine.
