@@ -1,0 +1,4 @@
+
+We wake badly but seem to pull ourselves together slowly. We plan to walk in the mountains nearby today so Cara has a long talk with Rienhardt (regular guest at Thea’s and an obsessive germanic hiker). Before the mountains we stop at the Women’s co-operative in Christos - a small tea shop recommended by Thea. They have great looking preserves and we taste a variety of their liqueurs which are really good (sour cherry and a subtle 7 herb one are my favourites)
+  
+Their cakes look super rich and decadent but when we get them with our coffee they are light and taste amazing. We have a strawberry cream thing (gorgeous and fluffy) and a mastic flavoured cream cake with pistachios and katalfi (angel hair crisp pasta soaked in honey) - beautiful, light and tasty. Both of these would fit in a Paris patisserie - a spectacular find in a small village on a greek island population less than 10 000.

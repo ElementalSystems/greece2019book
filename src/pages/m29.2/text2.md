@@ -1,0 +1,5 @@
+Like most greek beaches this seems organised and set up for hordes of people: rows of lounges and umbrellas in one section in front of a bar. But it is all shut down now - too early in the season and empty. The beach is beautiful but hard work.
+
+I don’t know if I agree that Anna’s food is good. It’s not as good as Thea’s if more restaurant-like. We came here because it was recommended by our car hire place and trip advisor. But it was a disappointment. The food was kind of arbitrary - I wished we didn't have the expensive lobster dish. The service was slow and as Andrew says - creepy. Anna had a way of talking to you that was ironic but demanding. A waiter dropped my greek salad all over me staining my near-white trousers with olive oil which was upsetting (kind of my fault though because I flung up my arm at the wrong moment).
+
+We left in a hurry even though Anna wanted to give us a goodbye drink and chat (typical Greek - free desert or tot of something to send you on your way - lovely idea). We didn’t like her and fled in irritation. (Andrew stayed behind to field this while I ran away home).

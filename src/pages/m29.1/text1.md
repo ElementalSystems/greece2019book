@@ -1,0 +1,9 @@
+We wake, indulge in a Thea’s breakfast (apricots from the trees below us this time - no strawberries) and head to a little town called Pigi. Pigi is high in the hills (everywhere in Ikaria is steeply up from the coast) and we park by a little church and walk the last 10 minutes through a pine forest to a famous monastery.
+
+This place was built directly into the rock high in the mountains to protect it from pirates - it is hidden in the landscape. As we enter the area all is silent - no signs of human life. We discover a few small rock chambers closed in with drystone walls and then among the rough rock a church and a small circular parapet with great views.
+
+We explore quietly and find a small tearoom where a greek lady tells us we might enter the church or go forward to the monastery.  - we walk upwards and find the monastery chapel built under a huge overhanging rock. The door is a four foot iron heavy thing - inside a tiny chapel that you can hardly stand in. There are icons and a beautiful woodwork altar from the 1800’s (still bright with colour) and a tiny triangular window cut through the wall to provide light.
+
+We sit quietly below (and meet some German travellers) for a while. We see lots of small, fast lizards when we watch and one perfectly camouflaged one. We watch quietly. Another quiet space built into the rock is restored as a traditional living space, it is dark and cool with large urns, a goatskin rug on the floor and a heath and fireplace. I sit there for a bit in the quiet.
+
+On our way out we go into the more modern church. This old small chapel is painted inside all over with the weird orthodox iconography - strange images of Christ lassoing a dragon and endless Saints in stern disapproving rows. People have left talismans for blessings in cheap metal with all kinds of icons on them - people, babies, houses and a car?

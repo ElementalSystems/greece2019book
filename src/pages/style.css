@@ -1,0 +1,564 @@
+@keyframes fadein {
+  0% {
+    opacity: 0.1;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+body {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+#title {
+  font-size: 6rem;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+
+div.photoframe {
+  position: absolute;
+  left: 33vw;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  display: grid;
+  box-sizing: border-box;
+  grid-template-columns: repeat(10, 10%);
+  grid-template-rows: repeat(8, 12.5%);
+  grid-auto-flow: row dense;
+  place-items: stretch;
+  justify-content: center;
+  align-content: center;
+
+  padding: 1rem;
+}
+
+div.photoframe div.printunderlay {
+  display: none;
+}
+
+div.textframe {
+  position: absolute;
+  left: 0;
+  width: 33vw;
+  top: 0;
+  bottom: 0;
+  box-sizing: border-box;
+  overflow-y: hidden;
+}
+
+div.heading {
+  font-size: 120%;
+  text-align: right;
+  color: #004;
+}
+
+div.scroll {}
+
+blockquote {
+  margin: 0;
+  display: none;
+}
+
+body.reveal blockquote {
+  display: block;
+}
+
+div.pad {
+  padding: .5rem 1rem;
+  margin: 1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 85vh;
+  z-index: 100;
+  overflow-y: auto;
+  transform: rotateZ(0deg);
+  transition: transform 1s, z-index 1s, color 1s;
+  cursor: pointer;
+  color: rgba(0, 0, 0, .1);
+}
+
+div.pad.act {
+  z-index: 110;
+  transform: rotateZ(2deg) translateY(2rem);
+  cursor: default;
+  color: rgba(0, 0, 0, 1);
+}
+
+
+div#main_a {
+  text-align: justify;
+  font-size: 1.8vh;
+  text-shadow: 0px 0px 2vh rgba(255, 255, 192, 1);
+  background: rgba(255, 255, 192, .5);
+}
+
+div#main_c {
+  text-align: justify;
+  font-size: 1.8vh;
+  text-shadow: 0px 0px 2vh rgba(192, 255, 255, 1);
+  background: rgba(192, 255, 255, .5);
+}
+
+div.imgframe {
+  animation: fadein 1s ease-in;
+  padding: 2%;
+  grid-column: auto / span 2;
+  grid-row: auto / span 2;
+  text-align: center;
+  vertical-align: middle;
+  /*border: 1px #0FF solid;*/
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+div.imgframe img {
+  box-shadow: 3px 3px 5px 1px #000;
+
+  object-fit: contain;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+/*  u1 and u2 - lift up and scale up the image
+    d1 and d2 - drop down and scale down the image
+*/
+/*  r1..r4 rotate right
+    l1..l4 rotate left
+*/
+/*
+  rc Round Corners
+  rc2 ellipse
+*/
+
+
+div.imgframe.r1 img {
+  transform: rotateZ(1deg);
+}
+
+div.imgframe.l1 img {
+  transform: rotateZ(-1deg);
+}
+
+div.imgframe.r2 img {
+  transform: rotateZ(2deg);
+}
+
+div.imgframe.l2 img {
+  transform: rotateZ(-2deg);
+}
+
+div.imgframe.r3 img {
+  transform: rotateZ(4deg);
+}
+
+div.imgframe.l3 img {
+  transform: rotateZ(-4deg);
+}
+
+div.imgframe.r4 img {
+  transform: rotateZ(8deg);
+}
+
+div.imgframe.l4 img {
+  transform: rotateZ(-8deg);
+}
+
+/*  u1 and u2 - lift up and scale up the image
+    d1 and d2 - drop down and scael down the image
+*/
+
+div.imgframe.u1 {
+  z-index: 10;
+  transform: scale(1.1);
+}
+
+
+div.imgframe.u1 img {
+  box-shadow: 3px 3px 6px 2px #000;
+}
+
+div.imgframe.u2 {
+  z-index: 12;
+  transform: scale(1.2);
+}
+
+div.imgframe.u2 img {
+  box-shadow: 3px 3px 8px 4px #000;
+}
+
+div.imgframe.d1 {
+  z-index: 4;
+  transform: scale(.9);
+}
+
+
+div.imgframe.d1 img {
+  box-shadow: 2px 2px 3px 1px #000;
+}
+
+div.imgframe.d2 {
+  z-index: 3;
+  transform: scale(.7);
+}
+
+div.imgframe.d2 img {
+  box-shadow: none;
+}
+
+/*
+  rc Round Corners
+  rc2 ellipse
+*/
+
+div.imgframe.rc img {
+  border-radius: 4vh;
+}
+
+div.imgframe.rc2 img {
+  border-radius: 50%;
+}
+
+/*
+Positional
+*/
+
+div.imgframe.xs {
+  grid-column: auto / span 1;
+  grid-row: auto / span 1;
+}
+
+div.imgframe.h {
+  grid-column: auto / span 2;
+  grid-row: auto / span 3;
+}
+
+div.imgframe.h.s {
+  grid-column: auto / span 1;
+  grid-row: auto / span 2;
+}
+
+div.imgframe.h.m {
+  grid-column: auto / span 3;
+  grid-row: auto / span 4;
+}
+
+div.imgframe.h.l {
+  grid-column: auto / span 4;
+  grid-row: auto / span 6;
+}
+
+div.imgframe.h.rth {
+  grid-column: 7 / span 4;
+  grid-row: 1 / span 6;
+}
+
+div.imgframe.h.lth {
+  grid-column: 1 / span 4;
+  grid-row: 1 / span 6;
+}
+
+
+div.imgframe.h.lth.l {
+  grid-column: 1 / span 6;
+  grid-row: 1 / span 8;
+}
+
+
+div.imgframe.w {
+  grid-column: auto / span 3;
+  grid-row: auto / span 2;
+}
+
+div.imgframe.w.s {
+  grid-column: auto / span 2;
+  grid-row: auto / span 1;
+}
+
+div.imgframe.w.m {
+  grid-column: auto / span 4;
+  grid-row: auto / span 3;
+}
+
+div.imgframe.w.m.mb {
+  grid-column: 4 / span 4;
+  grid-row: 6 / span 3;
+}
+
+
+
+div.imgframe.w.l {
+  grid-column: auto / span 6;
+  grid-row: auto / span 4;
+}
+
+div.imgframe.w.l.mb {
+  grid-column: 3 / span 6;
+  grid-row: 5 / span 4;
+}
+
+
+div.imgframe.w.l.rb {
+  grid-column: 5 / span 6;
+  grid-row: 5 / span 4;
+}
+
+div.imgframe.w.rth {
+  grid-column: 5 / span 6;
+  grid-row: 1 / span 5;
+}
+
+div.imgframe.w.lth {
+  grid-column: 1 / span 6;
+  grid-row: 1 / span 5;
+}
+
+
+
+div.imgframe.sq.m {
+  grid-column: auto / span 4;
+  grid-row: auto / span 4;
+}
+
+div.imgframe.sq.s {
+  grid-column: auto / span 3;
+  grid-row: auto / span 3;
+}
+
+
+
+
+img {}
+
+body {}
+
+div.full {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-size: cover;
+}
+
+div.fullbk::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-size: cover;
+  background-position: center;
+  z-index: -100;
+}
+
+div.fullbk.tl::before {
+  background-position: left top;
+}
+
+div.fullbk.bl::before {
+  background-position: left bottom;
+}
+
+div.fullbk.tr::before {
+  background-position: right top;
+}
+
+div.fullbk.br::before {
+  background-position: right bottom;
+}
+
+
+div.fullbk.textframe::before {
+  display: none;
+}
+
+div.fullbk.photoframe::before {
+  display: none;
+}
+
+
+div#zoom {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 0;
+
+
+  z-index: 200;
+  text-align: center;
+
+  transition: opacity .25s .25s, background-color .25s;
+  display: flex;
+  opacity: 0;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0);
+}
+
+div#zoom.show {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+
+  opacity: 1;
+  background-color: rgba(0, 0, 0, 0.5);
+  transition: opacity 1s, background-color .5s .25s;
+}
+
+
+img#zoomimg {
+  object-fit: contain;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 92%;
+  max-height: 92%;
+  box-shadow: 0 0 20px 10px #000;
+}
+
+a.ctl {
+  position: absolute;
+  z-index: 100;
+  bottom: 2rem;
+  text-decoration: none;
+  color: #FFF;
+
+  width: 10em;
+  font-size: 1rem;
+  padding: .5rem;
+  text-align: center;
+  background: rgba(0, 0, 0, .3);
+  border: #FFF 1px solid;
+  border-radius: 1rem;
+
+}
+
+a#next {
+  right: 2rem;
+}
+
+a#back {
+  left: 2rem;
+}
+
+
+@media (orientation:portrait) {
+  div.photoframe {
+    left: 0;
+    right: 0;
+    top: 50vh;
+    bottom: 0;
+  }
+
+  div.textframe {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    width: auto;
+    bottom: 40vh;
+  }
+
+  div.pad {
+    height: 40vh;
+  }
+
+  a.ctl {
+    width: auto;
+  }
+
+
+}
+
+@media print {
+
+
+  div.fullbk.textframe::before {
+    display: block;
+  }
+
+  div.fullbk.photoframe::before {
+    display: block;
+  }
+
+  div.fullbk.full::before {
+    display: none;
+  }
+
+  div.fullbk.full.cover::before {
+    display: block;
+  }
+
+  body blockquote {
+    display: block;
+  }
+
+
+  div.textframe {
+    position: static;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    page-break-after: always;
+  }
+
+  div.pad {
+    position: absolute;
+    height: 90vh;
+    left: 60%;
+    right: 5%;
+    top: 0;
+    color: rgba(0, 0, 0, 1);
+    transform: none;
+  }
+
+  div.pad.act {
+    position: absolute;
+    left: 5%;
+    right: 60%;
+    top: 0;
+    transform: none;
+  }
+
+  div.photoframe {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding-left: 15mm;
+    left: 0;
+  }
+
+  div#main_a {
+    font-size: 2vh;
+    text-shadow: 0px 0px 2vh rgba(255, 255, 192, 1);
+    background: rgba(255, 255, 192, .6);
+  }
+
+  div#main_c {
+    text-align: justify;
+    font-size: 2vh;
+    text-shadow: 0px 0px 2vh rgba(192, 255, 255, 1);
+    background: rgba(192, 255, 255, .6);
+  }
+
+  a#next {
+    display: none;
+  }
+
+  a#back {
+    display: none;
+  }
+
+}
