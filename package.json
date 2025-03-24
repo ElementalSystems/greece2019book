@@ -1,0 +1,25 @@
+{
+  "name": "greecebook",
+  "version": "1.0.0",
+  "description": "Greece Book",
+  "main": "index.js",
+  "dependencies": {
+    "css-minify": "^1.0.1",
+    "fs-extra": "^10.0.0",
+    "http-server": "^0.12.3",
+    "live-server": "^1.2.1",
+    "mustache": "^4.2.0",
+    "showdown": "^1.9.1",
+    "uglify-es": "^3.3.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "serve": "live-server",
+    "serve-net": "http-server",
+    "min": "uglifyjs src/js/*.js --compress --output css-dist/scripts.min.js&&css-minify -f src/style.css",
+    "build": "node build",
+    "build-page-m21.1": "node build m21.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
